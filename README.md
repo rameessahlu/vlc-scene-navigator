@@ -41,6 +41,8 @@ Each scene block:
 - Contains a start/end timestamp
 - Has a scene title
 
+![Scene Navigator UI](assets/scene-navigator-ui.png)
+
 ## 🧪 Installation Instructions
 
 ### 🔧 Option 1: Manual Installation (Recommended for Developers)
